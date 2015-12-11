@@ -1,0 +1,30 @@
+#include<iostream.h>
+main()
+{
+
+int a;
+cout<<"Podaj Liczbe : ";
+cin>>a;
+
+if (a%2==0) {cout<<"Liczba jest Parzysta";}else
+	{cout<<"Liczba nie jest patrzysta.";}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//algorytm sciagniety ze strony http://PlayCOM.w.interia.pl
